@@ -1,11 +1,11 @@
 #rock {
-	outline: 1px red;
+	background-color: gray;
 }
 
 #paper {
-	outline: 1px red;
+	background-color: aliceblue ;
 }
 
 #scissors {
-	outline: 1px red;
+	background-color: red;
 }
